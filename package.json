@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-"type": "module",
+  "type": "module",
   "main": "server/app.mjs",
   "scripts": {
     "dev": "nodemon server/app.mjs"
